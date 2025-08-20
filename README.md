@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunny040591&label=Profile%20views&color=0e75b6&style=flat" alt="sunny040591" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunny040591" alt="sunny040591" /></a> </p>
-
 - 🔭 I’m currently working on **Customer Master & Billing Data Validation**
 
 - 🌱 I’m currently learning **Python**
